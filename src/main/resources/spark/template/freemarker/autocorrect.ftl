@@ -3,7 +3,7 @@
 <h1> Autocorrect </h1>
 <h3> Toggle the suggestion algorithms you would like: </h3>
 <br>
-<canvas id="toggle"></canvas>
+<canvas id="toggle" style = "width: 600px; height: 150px;"></canvas>
 <br>
 <br>
 <button id="submit"> Submit </button>
